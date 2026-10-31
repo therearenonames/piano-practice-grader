@@ -82,8 +82,7 @@ Careful / average / sloppy timing: no mistakes made
 5% of notes wrong, missed or extra: 0.01% correct notes wrongly flagged, 99.8% mistakes found
 15% of notes wrong, missed or extra: 0.02% correct notes wrongly flagged, 98.9% mistakes found
 
-The program hasn't been tried with a real piano yet; the tests simulate one
-through loopMIDI.
+The program has been tried and works with a real piano.
 
 ## Limitations
 
