@@ -34,11 +34,11 @@ I made this app because when I was learning piano without an instructor, I often
   - A digital piano: connect it by USB (or a USB-MIDI cable) and pick it
     under MIDI input.
   - No piano: install loopMIDI (https://www.tobias-erichsen.de/software/loopmidi.html),
-    create a port called "PythonLoop", and send notes into it from a virtual
+    create a port called `PythonLoop`, and send notes into it from a virtual
     keyboard such as VMPK (https://vmpk.sourceforge.io/).
 3. Run the program: 
   `python gui.py`
-  There is also a terminal version: "python app.py --help".
+  There is also a terminal version: `python app.py --help`.
 
 ## How it works
 
